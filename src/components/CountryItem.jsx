@@ -1,4 +1,12 @@
+import PropTypes from "prop-types";
 import styles from "./CountryItem.module.css";
+
+CountryItem.propTypes = {
+  country: PropTypes.shape({
+    country: PropTypes.string.isRequired,
+    emoji: PropTypes.string.isRequired,
+  }).isRequired,
+};
 
 function CountryItem({ country }) {
   return (
