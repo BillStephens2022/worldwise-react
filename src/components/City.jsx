@@ -1,13 +1,6 @@
 import styles from "./City.module.css";
-
-const formatDate = (date) =>
-  new Intl.DateTimeFormat("en", {
-    day: "numeric",
-    month: "long",
-    year: "numeric",
-    weekday: "long",
-  }).format(new Date(date));
-
+import { formatDate } from "../util/formatting";
+import ButtonBack from "./ButtonBack";
 function City() {
   // TEMP DATA
   const currentCity = {
