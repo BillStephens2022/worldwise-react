@@ -37,18 +37,6 @@
       "id": 98443197
     },
     {
-      "cityName": "Nijar",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-04-03T07:47:59.202Z",
-      "notes": "",
-      "position": {
-        "lat": "36.967508314568164",
-        "lng": "-2.13128394200588"
-      },
-      "id": 98443198
-    },
-    {
       "cityName": "Paris",
       "country": "France",
       "emoji": "🇫🇷",
@@ -59,66 +47,6 @@
         "lng": "2.347984313964844"
       },
       "id": 98443199
-    },
-    {
-      "cityName": "Paris",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2024-08-02T10:55:52.069Z",
-      "notes": "test",
-      "position": {
-        "lat": "48.85522811385678",
-        "lng": "2.347984313964844"
-      },
-      "id": 98443200
-    },
-    {
-      "cityName": "Paris",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2024-08-02T10:57:10.423Z",
-      "notes": "",
-      "position": {
-        "lat": "48.85522811385678",
-        "lng": "2.347984313964844"
-      },
-      "id": 98443201
-    },
-    {
-      "cityName": "Paris",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2024-08-02T10:57:10.423Z",
-      "notes": "test",
-      "position": {
-        "lat": "48.85522811385678",
-        "lng": "2.347984313964844"
-      },
-      "id": 98443202
-    },
-    {
-      "cityName": "Paris",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2024-08-02T10:57:10.423Z",
-      "notes": "test",
-      "position": {
-        "lat": "48.85522811385678",
-        "lng": "2.347984313964844"
-      },
-      "id": 98443203
-    },
-    {
-      "cityName": "Aguilar de Segarra",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-08-02T10:57:10.423Z",
-      "notes": "test",
-      "position": {
-        "lat": "41.75492216766298",
-        "lng": "1.6259765625"
-      },
-      "id": 98443204
     },
     {
       "cityName": "Dublin",
@@ -133,18 +61,6 @@
       "id": 98443205
     },
     {
-      "cityName": "Dublin",
-      "country": "Ireland",
-      "emoji": "🇮🇪",
-      "date": "2024-08-02T11:00:45.099Z",
-      "notes": "Slainte!",
-      "position": {
-        "lat": "53.34317300677391",
-        "lng": "-6.258087158203126"
-      },
-      "id": 98443206
-    },
-    {
       "cityName": "Rome",
       "country": "Italy",
       "emoji": "🇮🇹",
@@ -155,42 +71,6 @@
         "lng": "12.484588623046877"
       },
       "id": 98443207
-    },
-    {
-      "cityName": "Rome",
-      "country": "Italy",
-      "emoji": "🇮🇹",
-      "date": "2024-08-02T11:01:26.893Z",
-      "notes": "The Vatican, Colloseum, Villa Borghese, Spanish Steps",
-      "position": {
-        "lat": "41.89052158009614",
-        "lng": "12.484588623046877"
-      },
-      "id": 98443208
-    },
-    {
-      "cityName": "Rome",
-      "country": "Italy",
-      "emoji": "🇮🇹",
-      "date": "2024-08-02T11:01:26.893Z",
-      "notes": "The Vatican, Colloseum, Villa Borghese, Spanish Steps, Trevi Fountain",
-      "position": {
-        "lat": "41.89052158009614",
-        "lng": "12.484588623046877"
-      },
-      "id": 98443209
-    },
-    {
-      "cityName": "Sierra-Engarceran",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-08-02T11:06:50.049Z",
-      "notes": "",
-      "position": {
-        "lat": "40.268000174695246",
-        "lng": "-0.019226074218750003"
-      },
-      "id": 98443210
     }
   ]
 }
