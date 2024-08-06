@@ -5,6 +5,15 @@
   An application that tracks your favorite cities in the world on a map along with travel notes.  Built with React, React Context API, React Router, JSON Server for a back end, and Leaflet for geolocation.
 
   ### App Screenshots
+
+  #### Home Page
+  ![home page screenshot](/public/screenshot1.png)
+
+  #### Cities Page
+  ![cities page screenshot](/public/screenshot2.png)
+
+  #### City Detail Page
+  ![city detail page](/public/screenshot3.png)
   
   ## Table of Contents
   
@@ -21,7 +30,8 @@
   
   ## Usage
   
-  npm run dev
+  npm run dev (for front end)
+  npm run server (for back end, json server)
 
   ## License
 This application is covered under the MIT License.
